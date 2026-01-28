@@ -3,7 +3,6 @@ package main
 import "fmt"
 
 func main() {
-
 	var ok string
 
 	fmt.Println("Ingredientes:")
@@ -71,5 +70,4 @@ func main() {
 
 	fmt.Println("	- Depois de esfriar, você pode servir o bolo simples ou decorá-lo com cobertura de sua preferência, como ganache de chocolate ou glacê de chocolate.")
 	fmt.Scanf("%s", &ok)
-
 }
