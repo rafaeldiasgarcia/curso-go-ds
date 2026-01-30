@@ -12,11 +12,9 @@ import (
 )
 
 func main() {
-
 	var soma float64
 
 	for {
-
 		var entrada string
 		fmt.Print("Entre com o valor: ")
 		fmt.Scanf("%s", &entrada)
